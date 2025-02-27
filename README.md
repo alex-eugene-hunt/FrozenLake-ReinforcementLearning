@@ -19,6 +19,9 @@ This project implements and compares different reinforcement learning algorithms
      - Discount factor (γ = 0.9)
      - Episode count: 2000
 
+![Screenshot 2025-02-27 140703](https://github.com/user-attachments/assets/60bd107d-81b4-455d-9754-e405f7324eb2)
+
+
 2. **SARSA(λ) with Eligibility Traces**
    - Implementation with hyperparameter optimization
    - Features:
@@ -30,6 +33,8 @@ This project implements and compares different reinforcement learning algorithms
      - Lambda values (λ): [0.4, 0.6, 0.8]
      - Learning rates (α): [0.1, 0.05, 0.01]
      - Epsilon values (ε): [0.1, 0.2, 0.05]
+
+![Screenshot 2025-02-27 140728](https://github.com/user-attachments/assets/040a9b96-84fd-4657-8145-7e1412158d6e)
 
 ### Environment Configuration
 - **OpenAI Gymnasium**: FrozenLake-v1
